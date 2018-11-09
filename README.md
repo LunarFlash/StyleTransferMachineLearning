@@ -10,7 +10,7 @@ You can read about the white paper on style transfer machine learning [here](htt
 ![starry](https://www.vangoghgallery.com/img/starry_night_full.jpg)
 
 The result when applied against an image of Yosemite would look something like this:
-[Yosemite](https://raw.githubusercontent.com/LunarFlash/StyleTransferMachineLearning/master/readmeImages/yosemite.png)
+![Yosemite](https://raw.githubusercontent.com/LunarFlash/StyleTransferMachineLearning/master/readmeImages/yosemite.png)
 
 
 * Install Anaconda's python 2.7 distribution [here](https://www.anaconda.com/download/)
