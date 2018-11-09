@@ -9,6 +9,9 @@ You can read about the white paper on style transfer machine learning [here](htt
 * Put 1 or more images in ./trainingdata/style (A style image is an image where you want to apply it's artistic style on other images, for best result you can use the image of a painting such as Van Gohn's [Starry Night](https://www.vangoghgallery.com/painting/starry-night.html))
 ![starry](https://www.vangoghgallery.com/img/starry_night_full.jpg)
 
+The result when applied against an image of Yosemite would look something like this:
+[Yosemite](https://raw.githubusercontent.com/LunarFlash/StyleTransferMachineLearning/master/readmeImages/yosemite.png)
+
 
 * Install Anaconda's python 2.7 distribution [here](https://www.anaconda.com/download/)
 
