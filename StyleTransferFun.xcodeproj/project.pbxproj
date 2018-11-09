@@ -13,6 +13,7 @@
 		8BB97E9E20F1B052005EDFCE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BB97E9D20F1B052005EDFCE /* Assets.xcassets */; };
 		8BB97EA120F1B052005EDFCE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BB97E9F20F1B052005EDFCE /* LaunchScreen.storyboard */; };
 		8BC5D01720F1B2DA0097EA64 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC5D01620F1B2DA0097EA64 /* CustomButton.swift */; };
+		DE3915DB2196166400AE5898 /* StarryStyle.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = DE3915DA2196166400AE5898 /* StarryStyle.mlmodel */; };
 		DEAC421D2195E0BD00B91817 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = DEAC421C2195E0BD00B91817 /* README.md */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +26,7 @@
 		8BB97EA020F1B052005EDFCE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8BB97EA220F1B052005EDFCE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8BC5D01620F1B2DA0097EA64 /* CustomButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		DE3915DA2196166400AE5898 /* StarryStyle.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = StarryStyle.mlmodel; sourceTree = "<group>"; };
 		DEAC421C2195E0BD00B91817 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -59,6 +61,7 @@
 		8BB97E9520F1B04D005EDFCE /* StyleTransferFun */ = {
 			isa = PBXGroup;
 			children = (
+				DE3915DA2196166400AE5898 /* StarryStyle.mlmodel */,
 				8BB97E9620F1B04D005EDFCE /* AppDelegate.swift */,
 				8BB97E9820F1B04D005EDFCE /* ViewController.swift */,
 				8BB97E9A20F1B04D005EDFCE /* Main.storyboard */,
@@ -143,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8BB97E9920F1B04D005EDFCE /* ViewController.swift in Sources */,
+				DE3915DB2196166400AE5898 /* StarryStyle.mlmodel in Sources */,
 				8BB97E9720F1B04D005EDFCE /* AppDelegate.swift in Sources */,
 				8BC5D01720F1B2DA0097EA64 /* CustomButton.swift in Sources */,
 			);
@@ -291,6 +295,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = HD5UELD683;
 				INFOPLIST_FILE = StyleTransferFun/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -308,6 +313,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = HD5UELD683;
 				INFOPLIST_FILE = StyleTransferFun/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
