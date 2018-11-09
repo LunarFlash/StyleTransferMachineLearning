@@ -1,10 +1,14 @@
 # Style Transfer Machine Learning Fun
 
-This project uses Turi Create to produce a convolutional neural network in order to apply style tranfer against images. Style transfer is a technique to transfer artistic style from 1 image to another. 😎
+This project uses Turi Create to produce a convolutional neural network in order to apply style tranfer on images. Style transfer is a technique to transfer artistic style from one image to another. 😎
+
+You can read about the white paper on style transfer machine learning [here](https://arxiv.org/abs/1508.06576). 
 
 ## How to train your own model
 
-* Put a style image in ./trainingdata/style 
+* Put a style image in ./trainingdata/style (A style image is an image where you want to apply it's artistic stlye on other images, for best result you can use the image of a painting such as Van Gohn's [Starry Night](https://www.vangoghgallery.com/painting/starry-night.html))
+![starry](https://www.vangoghgallery.com/img/starry_night_full.jpg)
+
 
 * Install Anaconda's python 2.7 distribution [here](https://www.anaconda.com/download/)
 
