@@ -1,7 +1,8 @@
 //
 //  AppDelegate.swift
 //  Style Transfer Starter
-//
+//  https://www.appcoda.com/coreml-turi-create/
+//  https://www.appcoda.com/core-ml-tools-conversion/
 //  Created by Sai Kambampati on 7/7/18.
 //  Copyright © 2018 AppCoda. All rights reserved.
 //
