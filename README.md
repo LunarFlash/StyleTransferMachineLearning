@@ -24,6 +24,7 @@ model = tc.style_transfer.create(style, content)
 model.export_coreml("Style.mlmodel")
 
 ```
+![jupyter](https://raw.githubusercontent.com/LunarFlash/StyleTransferMachineLearning/master/readmeImages/jupyter.png)
 
 Then drag the model into the project, and integrate in ViewController.swift
 
