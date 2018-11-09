@@ -1,6 +1,6 @@
 # Style Transfer Machine Learning Fun
 
-This project uses Turi Create to produce a convolutional neural network in order to apply style tranfer on images. Style transfer is a technique to transfer artistic style from one image to another. 😎
+This project uses Turi Create to produce a convolutional neural network in order to apply style transfer on images. Style transfer is a technique to transfer artistic style from one image to another. 😎
 
 You can read about the white paper on style transfer machine learning [here](https://arxiv.org/abs/1508.06576). 
 
