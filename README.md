@@ -6,7 +6,7 @@ You can read about the white paper on style transfer machine learning [here](htt
 
 ## How to train your own model
 
-* Put a style image in ./trainingdata/style (A style image is an image where you want to apply it's artistic stlye on other images, for best result you can use the image of a painting such as Van Gohn's [Starry Night](https://www.vangoghgallery.com/painting/starry-night.html))
+* Put 1 or more images in ./trainingdata/style (A style image is an image where you want to apply it's artistic stlye on other images, for best result you can use the image of a painting such as Van Gohn's [Starry Night](https://www.vangoghgallery.com/painting/starry-night.html))
 ![starry](https://www.vangoghgallery.com/img/starry_night_full.jpg)
 
 
