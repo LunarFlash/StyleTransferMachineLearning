@@ -2,7 +2,9 @@
 
 This project uses Turi Create to produce a convolutional neural network in order to apply style tranfer against images. Style transfer is a technique to transfer artistic style from 1 image to another. 😎
 
-## How to use
+## How to train your own model
+
+* Put a style image in ./trainingdata/style 
 
 * Install Anaconda's python 2.7 distribution [here](https://www.anaconda.com/download/)
 
@@ -13,7 +15,7 @@ python -m pip install --upgrade pip
 python -m pip install jupyter
 ```
 
-* In a new Jupyter Notebook run:
+* In a new Jupyter Notebook from this project's root folder run:
 ```
 import turicreate as tc
 style = tc.load_images('./trainingdata/style')
